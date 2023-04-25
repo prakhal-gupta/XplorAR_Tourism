@@ -19,7 +19,7 @@ Things we have done in making this projects are:-
 
 
 ## Demo
-# [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
+# [Project Link](https://xplorar.netlify.app/)
 ![](2.png)
 
 # FEATURES
@@ -30,12 +30,12 @@ Things we have done in making this projects are:-
 
 
 - ## **Feature 2:** </br>
-  Gamified View (Interior View ).
+    [ 3D View](https://polite-ganache-c62c63.netlify.app/) ( Interior View )
 
 
 ## Contributors
 
-<img src = "3.jpg" width = "550" height = "400">
+
 
 - [Prakhal Gupta](https://github.com/prakhal-gupta)
 
@@ -46,7 +46,6 @@ Things we have done in making this projects are:-
 
 
 
-<img src = "4.jpg" width = "600" height = "400">
 
 
 
